@@ -1,6 +1,23 @@
+
 li a {
-    color: green;
+    color: darkred;
+    line-height: 30px;
+    font-size: 20px;
 }
-body {
-    background: white url("images/background.jpg") no-repeat;
+
+h1{
+    color:olive;
+    margin-top: 15px;
+    }
+
+input,#radioBtn,li,a
+{
+    margin-bottom: 15px;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+#subVote
+{
+    color:darkred;
 }
