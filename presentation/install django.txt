@@ -5,7 +5,7 @@ At a command prompt:
 REM See if we already have pip. It's supposed to come with Python
 python -m pip --version
 
-REM Install Django and check the version to see it it's installed
+REM Install Django
 python -m pip install Django
 
 REM Check the version of Django to make sure it's installed
