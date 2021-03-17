@@ -1,0 +1,15 @@
+Install Python from https://www.python.org/downloads/
+
+At a command prompt:
+
+REM See if we already have pip. It's supposed to come with Python
+python -m pip --version
+
+REM Install Django and check the version to see it it's installed
+python -m pip install Django
+
+REM Check the version of Django to make sure it's installed
+py -m django --version
+
+REM Optional: Install mysqlclient for possible use of MariaDB
+pip install mysqlclient
