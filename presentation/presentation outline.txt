@@ -1,0 +1,28 @@
+Plan for the Django presentation
+
+Neil
+========
+What is Django?			Neil
+Installing Django			Neil
+Creating a new project and app	Neil
+-- How the MVC architecture is used
+
+Maggie
+========
+Demonstration of Poll app		Maggie
+-- how the settings.py and urls.py (in mysite folder) and the models.py (polls folder) and sqlite file work
+-- how new data is inserted into the database
+
+Greg
+========
+Demonstration of Blog app		Greg
+
+Recap (Neil, Maggie, Greg in that order?) THIS PART IS WORTH 38% OF THE GRADE
+========
+Some of this may be covered already during the previous three sections.
+Summarize your findings and opinions if there is anything you didn't already mention.
+Be sure to mention:
+Did you like Django?
+Was it easy/hard to use?
+What did it do well/poorly?
+Would you use it again?

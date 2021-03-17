@@ -99,7 +99,7 @@ INSTALLED_APPS = [
     ....
 
 python manage.py makemigrations polls		# store model changes as a migration
-[python manage.py sqlmigrate polls 0001		# see what it will do]
+[python manage.py sqlmigrate polls 0001	# [see what it will do]
 python manage.py migrate			# run the migrations -- create the model tables
 
 1. change models in models.py
